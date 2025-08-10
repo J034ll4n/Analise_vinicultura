@@ -7,7 +7,7 @@
 
 Este projeto, desenvolvido como parte de um **Tech Challenge da FIAP**, oferece uma análise aprofundada do mercado global de vinhos, com um foco estratégico nas exportações brasileiras. A análise explora dados de vendas, fatores climáticos e tendências econômicas para propor ações concretas que visam fortalecer a posição do vinho brasileiro no cenário internacional.
 
-![Principais Países de Consumo mundiais ](https://github.com/J034ll4n/Analise_vinicultura/blob/main/image/Consumo_mundial.png?raw=true)
+![Principais Países de Consumo mundiais ](https://github.com/J034ll4n/Analise_vinicultura/tree/master/image/Consumo_mundial.png?raw=true)
 
 ## 🎯 1. Objetivos do Projeto
 
@@ -17,14 +17,14 @@ O estudo busca responder a uma pergunta central: *que estratégias podem ser imp
 * Identificar os mercados de destino mais importantes e com maior potencial.
 * Propor estratégias de consolidação e diversificação para otimizar a atuação no mercado internacional.
 
-![Analise Exploratória de exportação de vinho do Estado do Rio Grande do Sul  ](https://github.com/J034ll4n/Analise_vinicultura/blob/main/image/Analise_exploratoria.png?raw=true)
-![Timeline dos ultimos 15 anos ](https://github.com/J034ll4n/Analise_vinicultura/blob/main/image/Timeline.png?raw=true)
+![Analise Exploratória de exportação de vinho do Estado do Rio Grande do Sul  ](https://github.com/J034ll4n/Analise_vinicultura/tree/master/image/Analise_exploratoria.png?raw=true)
+![Timeline dos ultimos 15 anos ](https://github.com/J034ll4n/Analise_vinicultura/tree/master/image/Timeline.png?raw=true)
 
 ## 📊 2. Resumo da Análise e Estratégia
-![Analise das Exportações por país ](https://github.com/J034ll4n/Analise_vinicultura/blob/main/image/parceiros.png?raw=true)
-![Analise do tipo de produção de vinho com timeline ](https://github.com/J034ll4n/Analise_vinicultura/blob/main/image/producao.png?raw=true)
-![Analise de como o clima afeta a produção dos tipos de vinho e espumantes ](https://github.com/J034ll4n/Analise_vinicultura/blob/main/image/analise_climatica.png?raw=true)
-![Analise dos tipo de itens mais vendidos ](https://github.com/J034ll4n/Analise_vinicultura/blob/main/image/comercio.png?raw=true)
+![Analise das Exportações por país ](https://github.com/J034ll4n/Analise_vinicultura/tree/master/image/parceiros.png?raw=true)
+![Analise do tipo de produção de vinho com timeline ](https://github.com/J034ll4n/Analise_vinicultura/tree/master/image/producao.png?raw=true)
+![Analise de como o clima afeta a produção dos tipos de vinho e espumantes ](https://github.com/J034ll4n/Analise_vinicultura/tree/master/image/analise_climatica.png?raw=true)
+![Analise dos tipo de itens mais vendidos ](https://github.com/J034ll4n/Analise_vinicultura/tree/master/image/comercio.png?raw=true)
 
 
 A análise mostrou que o Brasil, embora seja um exportador emergente, possui um mercado consolidado no Paraguai. Para crescer, o projeto sugere uma estratégia de **diversificação** para mercados de alto valor, como EUA e China, e a **consolidação** de mercados já existentes.
