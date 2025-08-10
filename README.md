@@ -58,3 +58,49 @@ O projeto utilizou uma abordagem de análise de dados exploratória e preditiva,
 ## 🚀 4. Conclusão
 
 A análise demonstrou que, com uma estratégia clara e focada no valor agregado, o vinho brasileiro tem potencial para se destacar no mercado global. As propostas apresentadas no relatório buscam transformar os desafios em oportunidades de crescimento sustentável e reconhecimento internacional.
+
+### **5. Fontes de Dados e Referências**
+
+A análise deste projeto foi embasada em dados e pesquisas das seguintes fontes:
+
+* **World Bank:**
+    [https://www.worldbank.org/ext/en/home](https://www.worldbank.org/ext/en/home)
+
+* **Instituto Nacional de Meteorologia (INMET):**
+    [https://portal.inmet.gov.br/](https://portal.inmet.gov.br/)
+
+* **International Organisation of Vine and Wine (OIV):**
+    [https://www.oiv.int/what-we-do/statistics](https://www.oiv.int/what-we-do/statistics)
+
+* **GOVERNO FEDERAL DO BRASIL - Estudo de Mercado Paraguai:**
+    [https://www.gov.br/empresas-e-negocios/pt-br/invest-export-brasil/exportar/conheca-os-mercados/pesquisas-de-mercado/estudo-de-mercado.pdf/Paraguai2021.pdf](https://www.gov.br/empresas-e-negocios/pt-br/invest-export-brasil/exportar/conheca-os-mercados/pesquisas-de-mercado/estudo-de-mercado.pdf/Paraguai2021.pdf)
+
+* **Caveroyale - Glossário: Vinhos do Paraguai:**
+    [https://www.caveroyale.com.br/glossario/paraguaio-vinicola-vinhos-paraguai/](https://www.caveroyale.com.br/glossario/paraguaio-vinicola-vinhos-paraguai/)
+
+* **Silicon Valley Bank - Trends & Insights: Wine Report:**
+    [https://www.svb.com/trends-insights/reports/wine-report/](https://www.svb.com/trends-insights/reports/wine-report/)
+
+* **Silicon Valley Bank - Previsão da Indústria de Vinhos dos EUA:**
+    [https://www.svb.com/news/company-news/silicon-valley-bank-predicts-the-us-wine-industry-is-at-the-tail-end-of-a-20-year-growth-period/](https://www.svb.com/news/company-news/silicon-valley-bank-predicts-the-us-wine-industry-is-at-the-tail-end-of-a-20-year-growth-period/)
+
+* **The Drinks Business - Os Principais Produtores de Vinho do Reino Unido:**
+    [https://www.thedrinksbusiness.com/2023/06/the-top-wine-counties-in-the-uk/](https://www.thedrinksbusiness.com/2023/06/the-top-wine-counties-in-the-uk/)
+
+* **China Briefing - Perspectivas do Mercado de Vinhos na China:**
+    [https://www.china-briefing.com/news/chinas-wine-market-outlook-trends-and-opportunities/](https://www.china-briefing.com/news/chinas-wine-market-outlook-trends-and-opportunities/)
+
+* **China Briefing - Potencial do Mercado de Vinhos na China:**
+    [https://www.china-briefing.com/news/chinas-wine-market-shows-great-potential/](https://www.china-briefing.com/news/chinas-wine-market-shows-great-potential/)
+
+* **APEXBRASIL - Promoção de Vinho Brasileiro:**
+    [https://apexbrasil.com.br/content/apexbrasil/br/pt/conteudo/noticias/ApexBrasil-e-Consevitis-promovem-o-vinho-brasileiro-para-compradores-internacionais.html](https://apexbrasil.com.br/content/apexbrasil/br/pt/conteudo/noticias/ApexBrasil-e-Consevitis-promovem-o-vinho-brasileiro-para-compradores-internacionais.html)
+
+* **International Wine Challenge - Por que participar:**
+    [https://www.internationalwinechallenge.com/why-take-part.html](https://www.internationalwinechallenge.com/why-take-part.html)
+
+* **Sebrae - Enoturismo no Brasil:**
+    [https://sebrae.com.br/sites/PortalSebrae/artigos/enoturismo-ganhe-com-essa-tendencia-em-alta-no-brasil,277692ee264b1810VgnVCM100000d701210aRCRD](https://sebrae.com.br/sites/PortalSebrae/artigos/enoturismo-ganhe-com-essa-tendencia-em-alta-no-brasil,277692ee264b1810VgnVCM100000d701210aRCRD)
+
+* **Vinícola Guaspari - O que é Enoturismo:**
+    [https://www.vinicolaguaspari.com.br/revista/o-que-e-enoturismo/](https://www.vinicolaguaspari.com.br/revista/o-que-e-enoturismo/)
